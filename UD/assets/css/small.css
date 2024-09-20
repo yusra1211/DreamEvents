@@ -1,0 +1,42 @@
+.stfont{
+    color: #fff;
+text-decoration: none;
+font-weight: 500;
+font-family: 'Inika';
+font-size: 20px;
+}
+.stfont:hover {
+    color: #AA68FF;
+}
+.fhead{
+    font-size: 25px;
+    color: #AA68FF;
+    font-family: 'Inika';
+    font-weight: 600;
+}
+.inkf{
+    font-family: 'Inika';
+}
+@media (max-width: 600px) {
+.content>h1{
+    width: 200px;
+    font-size: 25px;
+}
+
+.bk-fd{
+    left:10px;
+}
+.bk-head{
+    height: 25px;
+    top: 15px;
+}
+.bk-head>h1{
+    position: relative;
+    width: 100%;
+    color: #fff;
+    font-family: 'Inkia';
+    text-align: center;
+    font-size: 20px;
+}
+}    
+  
